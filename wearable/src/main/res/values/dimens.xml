@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_text_size">35dp</dimen>
+    <dimen name="date_text_size">13dp</dimen>
+
+    <dimen name="time_x_offset">50dp</dimen>
+    <dimen name="time_y_offset">60dp</dimen>
+
+    <dimen name="date_x_offset">40dp</dimen>
+    <dimen name="date_y_offset">85dp</dimen>
+    <dimen name="line_length">30dp</dimen>
+    <dimen name="line_top">105dp</dimen>
+</resources>
