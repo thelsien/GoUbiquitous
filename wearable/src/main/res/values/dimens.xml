@@ -8,6 +8,7 @@
 
     <dimen name="date_x_offset">40dp</dimen>
     <dimen name="date_y_offset">85dp</dimen>
+
     <dimen name="line_length">30dp</dimen>
     <dimen name="line_top">105dp</dimen>
 </resources>
