@@ -5,13 +5,25 @@
     <dimen name="temp_text_size">20dp</dimen>
 
     <dimen name="time_x_offset">50dp</dimen>
+    <dimen name="time_x_offset_round">63dp</dimen>
     <dimen name="time_y_offset">60dp</dimen>
+    <dimen name="time_y_offset_round">70dp</dimen>
 
     <dimen name="date_x_offset">40dp</dimen>
+    <dimen name="date_x_offset_round">53dp</dimen>
     <dimen name="date_y_offset">85dp</dimen>
+    <dimen name="date_y_offset_round">95dp</dimen>
 
     <dimen name="weather_y_offset">140dp</dimen>
+    <dimen name="weather_y_offset_round">150dp</dimen>
 
     <dimen name="line_length">30dp</dimen>
     <dimen name="line_top">105dp</dimen>
+    <dimen name="line_top_round">115dp</dimen>
+
+    <dimen name="icon_left">40dp</dimen>
+    <dimen name="icon_left_round">50dp</dimen>
+    <dimen name="icon_top">119dp</dimen>
+    <dimen name="icon_top_round">129dp</dimen>
+    <dimen name="icon_width">30dp</dimen>
 </resources>

@@ -2,5 +2,5 @@
 <resources>
     <color name="background">#03A9F4</color>
     <color name="digital_text">#ffffff</color>
-    <color name="date_text">#a1d1ed</color>
+    <color name="light_blue">#b8e2fa</color>
 </resources>
